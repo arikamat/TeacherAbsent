@@ -2,6 +2,7 @@ package com.example.teacherabsenthackbca;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import android.*;
 
 public class MainActivity extends AppCompatActivity {
     //hello world
