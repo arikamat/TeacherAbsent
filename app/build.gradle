@@ -39,5 +39,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation 'com.google.oauth-client:google-oauth-client-jetty:1.30.4'
     implementation 'com.google.apis:google-api-services-sheets:v4-rev20200131-1.30.8'
+    implementation 'com.squareup.okhttp:okhttp:2.4.0'
+    implementation 'com.squareup.okhttp:okhttp-urlconnection:2.2.0'
 
 }
